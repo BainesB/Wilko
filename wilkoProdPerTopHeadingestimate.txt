@@ -1,0 +1,53 @@
+11
+
+
+Catigory Heading: ToysAndBikes estimate: Products in Catigory: 621
+AWOOGA: this is an estimate, possible dupplication
+
+
+Catigory Heading: studentliving estimate: Products in Catigory: 1806
+AWOOGA: this is an estimate, possible dupplication
+
+
+Catigory Heading: Storage estimate: Products in Catigory: 188
+AWOOGA: this is an estimate, possible dupplication
+
+
+Catigory Heading: StationaryCraft estimate: Products in Catigory: 1862
+AWOOGA: this is an estimate, possible dupplication
+
+
+Catigory Heading: pets estimate: Products in Catigory: 1141
+AWOOGA: this is an estimate, possible dupplication
+
+
+Catigory Heading: offers estimate: Products in Catigory: 1401
+AWOOGA: this is an estimate, possible dupplication
+
+
+Catigory Heading: KitchenDining estimate: Products in Catigory: 964
+AWOOGA: this is an estimate, possible dupplication
+
+
+Catigory Heading: HouseholdCleaning estimate: Products in Catigory: 1840
+AWOOGA: this is an estimate, possible dupplication
+
+
+Catigory Heading: HomeLiving estimate: Products in Catigory: 449
+AWOOGA: this is an estimate, possible dupplication
+
+
+Catigory Heading: HealthandBeauty estimate: Products in Catigory: 2445
+AWOOGA: this is an estimate, possible dupplication
+
+
+Catigory Heading: Halloween estimate: Products in Catigory: 293
+AWOOGA: this is an estimate, possible dupplication
+
+
+Catigory Heading: GuardenOutdoorLving estimate: Products in Catigory: 730
+AWOOGA: this is an estimate, possible dupplication
+
+
+Catigory Heading: DecoratingAndDIY estimate: Products in Catigory: 1933
+AWOOGA: this is an estimate, possible dupplication

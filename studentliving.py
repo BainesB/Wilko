@@ -1,0 +1,28 @@
+studentliving = [
+
+	"Student Home Living",
+	"Bedroom Ideas",
+	"Kitchen Essentials",
+	"Storage Solutions",
+	"Bathroom Essentials",
+	"View All Categories ",
+	"Stationery & Tech",
+	"Uni Stationery",
+	"Stationery Collections",
+	"Tech Essentials",
+	"View All Categories ",
+	"Home Furniture",
+	"Beds & Mattresses",
+	"Bedside Tables and Drawers",
+	"Bookcases & Display Units",
+	"Computer Desks",
+	"View All Categories ",
+	"Student Essentials",
+	"Cleaning & Tidying",
+	"DIY Essentials",
+	"Health & Beauty Essentials",
+	"Student Living Bundles",
+	"Student Living Offers",
+	"Half Price Stationery",
+]
+

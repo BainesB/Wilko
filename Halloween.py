@@ -1,0 +1,25 @@
+Halloween = [
+
+	"Halloween Decorations",
+	"Animated Decorations",
+	"Party Decorations",
+	"Animal Props",
+	"Pumpkins",
+	"View All Categories",
+	"Halloween Lighting",
+	"Halloween Partyware",
+	"Halloween Costumes",
+	"Vampire Costumes",
+	"Skeleton Costumes",
+	"Cheerleader Costumes",
+	"Surgeon Costumes",
+	"Monster Costumes",
+	"Cat Costumes",
+	"Nurse Costumes",
+	"Spider Costumes",
+	"View All Categories",
+	"Halloween Costume Accessories",
+	"Face Paint & Make Up",
+	"Loot Bags & Bowls",
+
+]

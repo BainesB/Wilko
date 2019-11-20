@@ -1,0 +1,42 @@
+You have built a good scraper taht seem to have grabbed all the 'Viewing X products of X' data from the wilko products pages that have that info. 
+
+I think this gives you a resonable estimate of how many products they sell: 15k 
+
+I dumped the the catigory title and the number of products in that catigory in a txt file. 
+
+I then grabbed the sub heading under each nav bar head on the home page. 
+
+This way it was possible for me to estimate how many producuts are under, each of the main nav bar heading. its about 2k per heading. Some seem to be as low as 500. 
+
+I also think that this method is resulting in some double counting. eg 'hair products' and 'hair essential' one assumes that that is doulbe count. 
+
+There is the possiblitity that the scrapper has just missed a load of stuff. And i don't know about it cos they divergede for the 'Viewing X of X Products' format, but i think this is very unlikely.  
+
+.....
+
+Current: 
+	i'm writing code to make the scraper I have dump the data into a SQlite3 DB. I've also exstended the scraper to keep the URL
+
+NB: Its worth noting that the scrapper revealed some info pages that given energy rating for some products and ingreadents for others.
+
+
+The next more involved step would be to craw the sight deeper and take in information for individual proucts and save them all to a DB. 
+
+I don't know what the feild would need to be for that DB eg: What infor do you want on each product?
+
+Once that DB is build I can work out what products are currently being doulble counted if any. 
+
+This should give a definitive number of products. 
+
+If I know what inputs the Tim Bernards-lee spread sheet needs I can look at if it is possible to scrape that. 
+
+Ultimately, afully automated work flow could be developped. 
+
+I think it would be worth getting what you have in a sqlite3 db, so that you can make a scraping plan. 
+
+you could either use selenium to click the load more untill 'Viewing X of X products' where X == X. or there is tab that lets you see 200 results at a time. It might be worth clicking that first. 
+
+when you have all the results loaded, you need to use beautiful soup to scrape 
+all the indvidual product links. 
+
+Then I think when you have mega DB of their products, i'd you can use re.get('thing') and then use beautiful soup to grab them all. 
